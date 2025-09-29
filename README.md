@@ -1,2 +1,3 @@
 # gamedesign
-This is my repository where I learn game design from scratch and will later present it as a portfolio.
+Привет, меня зовут Всеволод и я начинающий гемдизайнер. 
+Здесь я буду хранить свои проекты, учиться геймдизайну и создавать свое портфолио.
